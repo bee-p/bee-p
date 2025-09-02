@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-  ### Skill
+  <h3>Skill</h3>
   <img src="https://img.shields.io/badge/java-%23007396.svg?&style=flat&logo=java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/c++-00599C?&style=flat&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3776AB?&style=flat&logo=python&logoColor=white"/>
@@ -39,15 +39,14 @@ Here are some ideas to get you started:
   </br>
   -->
   
-  </br>
+  <br></br>
   
-  ### Blog
+  <h3>Blog</h3>
   <a href="https://beeep.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/tistory-ff5c4c?style=flat&logo=tistory&logoColor=white"/>
   </a>
   
-  <br>
-  </br>
+  <br></br>
   
   ### Baekjoon Stats
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=beep)](https://solved.ac/beep)
