@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/tistory-ff5c4c?style=flat&logo=tistory&logoColor=white"/>
 </a>
 
-### Skill
+### Skills
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=flat&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/c++-00599C?&style=flat&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3776AB?&style=flat&logo=python&logoColor=white"/>
